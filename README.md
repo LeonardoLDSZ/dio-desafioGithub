@@ -1,4 +1,4 @@
-## Repositório referente ao desafio git, github
+## Repositório referente ao desafio git, github pertencente ao Database Experience da Digital Innovation One
 
 # dio-desafioGithub
 
