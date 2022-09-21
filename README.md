@@ -1,4 +1,4 @@
-##Repositório referente ao desafio git, git hub
+## Repositório referente ao desafio git, github
 
 # dio-desafioGithub
-Desafio de Projeto - Git / Githb
+
