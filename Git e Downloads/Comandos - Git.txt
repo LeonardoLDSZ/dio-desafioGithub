@@ -1,0 +1,20 @@
+cd - possibilita navegação entre as pastas
+cd / - navega para local especifico no sistema
+cd .. - retrocede um nivel
+cls - limpa o terminal
+TAB - autocompleta
+dir - exibe lista de diretorios
+mkdir - cria uma pasta
+echo - printa o comando
+del - deleta somente arquivos
+rmdir + pasta +  /S /Q - Deleta pasta e arquivos
+=================================
+SHA1 - Algoritmo que embaralha (encriptação) o projeto - caracteres identificador de 40 digitos
+openssl sha1 + text.txt (arquivo de texto)
+=================================
+stdin - função que espera receber arquivo
+=================================
+git init
+git add
+git commit
+ls -a - mostra arquivos ocultos

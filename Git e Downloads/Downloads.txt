@@ -1,0 +1,5 @@
+Downloads
+
+- git - https://git-scm.com/downloads
+- vscode - https://code.visualstudio.com/download
+- intellij - https://www.jetbrains.com/idea/download/#section=windows
